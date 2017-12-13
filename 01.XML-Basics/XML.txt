@@ -1,0 +1,43 @@
+ 1. What does the XML language represent? What is it used for? 
+
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format 
+which is both human-readable and machine-readable. It is defined by the W3C's XML 1.0 Specification and by several other related specifications,
+all of which are free open standards.
+
+The design goals of XML emphasize simplicity, generality and usability across the Internet. 
+It is a textual data format with strong support via Unicode for different human languages. 
+XML is widely used for the representation of arbitrary data structures such as those used in web services.
+
+Several schema systems exist to aid in the definition of XML-based languages.
+Many application programming interfaces (APIs) have been developed to aid the processing of XML data.
+
+3.  What do namespaces represent in an XML document? What are they used for?
+
+XML namespaces are used for providing uniquely named elements and attributes in an XML document.
+They are defined in a W3C recommendation.
+An XML instance may contain element or attribute names from more than one XML vocabulary.
+If each vocabulary is given a namespace, the ambiguity between identically named elements or attributes can be resolved.
+
+A simple example would be to consider an XML instance that contained references to a student and a course in an university.
+Both the student element and the course element could have a child element named Id. 
+References to the Id element would therefore be ambiguous; placing them in different namespaces would remove the ambiguity.
+
+4. Explore http://en.wikipedia.org/wiki/Uniform_Resource_Identifier to learn more about URI, URN and URL definitions.
+
+Uniform Resource Identifier (URI). In computing, this is a string of characters used to identify the name of a resource. 
+Such identification enables interaction with representations of the resource over a network, typically the World Wide Web, using specific protocols.
+Each URI is defined by schemes specifying a concrete syntax and associated protocols.
+
+Uniform Resource Locator (URL) - the most common form of URI; URL is frequently referred to informally as a web address.
+A URL is a URI that, in addition to identifying a web resource, specifies the means of acting upon or obtaining the representation of it,
+i.e. specifying both its primary access mechanism and network location.
+Example: the URL http://someDomain.org/wiki/Main_Page refers to a resource identified as /wiki/Main_Page whose representation, 
+in the form of HTML and related code, is obtainable via HyperText Transfer Protocol (http) from a network host whose domain name is someDomain.org. 
+		
+Uniform Resource Name (URN) is more rarely seen in usage; URN was designed to complement URLs by providing a mechanism 
+for the identification of resources in particular namespaces.
+A URN is a URI that identifies a resource by name in a particular namespace. A URN can be used to talk about a resource 
+without implying its location or how to access it.
+
+A Uniform Resource Name (URN) functions like a person's name, while a Uniform Resource Locator (URL) resembles that person's street address. 
+In other words: the URN defines an item's identity, while the URL provides a method for finding it.

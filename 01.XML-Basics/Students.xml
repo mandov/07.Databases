@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Students.xslt"?>
+<university xmlns:students="urn:student">
+  <student>
+    <name>Gosho</name>
+    <sex>Male</sex>
+    <birthdate>02.08.1996</birthdate>
+    <phone>08852233</phone>
+    <email>goshofobiqta@abv.bg</email>
+    <course>IV</course>
+    <speciality>Iconomics</speciality>
+    <facultynumber>15116220</facultynumber>
+    <listoftakenexams>
+      <exam>Math</exam>
+      <tutor>Zheko Yanev</tutor>
+      <score>5 points</score>
+    </listoftakenexams>
+    <enrollment>
+      <date>12.12.2012</date>
+      <examscore>15</examscore>
+    </enrollment>
+    <teacherendorsment>false</teacherendorsment>
+  </student>
+  <student>
+    <name>Jivko</name>
+    <sex>Male</sex>
+    <birthdate>22.04.1995</birthdate>
+    <phone>08965451</phone>
+    <email>JivkoJelqzkov@abv.bg</email>
+    <course>IV</course>
+    <speciality>Iconomics</speciality>
+    <facultynumber>15116225</facultynumber>
+    <listoftakenexams>
+      <exam>Informatics</exam>
+      <tutor>Ginka Ivanova</tutor>
+      <score>10 points</score>
+    </listoftakenexams>
+    <enrollment>
+      <date>11.12.2012</date>
+      <examscore>12</examscore>
+    </enrollment>
+    <teacherendorsment>true</teacherendorsment>
+  </student>
+  <student>
+    <name>Daniela</name>
+    <sex>Female</sex>
+    <birthdate>11.10.1996</birthdate>
+    <phone>089546212</phone>
+    <email>Dani96@abv.bg</email>
+    <course>IV</course>
+    <speciality>Finances</speciality>
+    <facultynumber>15116300</facultynumber>
+    <listoftakenexams>
+      <exam>Corporative Finances</exam>
+      <tutor>Ivan Manev</tutor>
+      <score>8 points</score>
+    </listoftakenexams>
+    <enrollment>
+      <date>11.12.2012</date>
+      <examscore>20</examscore>
+    </enrollment>
+    <teacherendorsment>true</teacherendorsment>
+  </student>
+</university>
