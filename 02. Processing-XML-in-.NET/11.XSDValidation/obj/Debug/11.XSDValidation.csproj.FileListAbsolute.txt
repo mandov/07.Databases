@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\11.XSDValidation\bin\Debug\11.XSDValidation.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\11.XSDValidation\bin\Debug\11.XSDValidation.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\11.XSDValidation\bin\Debug\11.XSDValidation.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\11.XSDValidation\obj\Debug\11.XSDValidation.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\11.XSDValidation\obj\Debug\11.XSDValidation.pdb

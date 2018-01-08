@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.TraverseGivenDirectoryWithXDocum\bin\Debug\08.TraverseGivenDirectoryWithXDocum.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.TraverseGivenDirectoryWithXDocum\bin\Debug\08.TraverseGivenDirectoryWithXDocum.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.TraverseGivenDirectoryWithXDocum\bin\Debug\08.TraverseGivenDirectoryWithXDocum.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.TraverseGivenDirectoryWithXDocum\obj\Debug\08.TraverseGivenDirectoryWithXDocum.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.TraverseGivenDirectoryWithXDocum\obj\Debug\08.TraverseGivenDirectoryWithXDocum.pdb

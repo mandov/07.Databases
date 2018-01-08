@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\10.XSLTTranformationOnXmlToHTML\bin\Debug\10.XSLTTranformationOnXmlToHTML.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\10.XSLTTranformationOnXmlToHTML\bin\Debug\10.XSLTTranformationOnXmlToHTML.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\10.XSLTTranformationOnXmlToHTML\bin\Debug\10.XSLTTranformationOnXmlToHTML.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\10.XSLTTranformationOnXmlToHTML\obj\Debug\10.XSLTTranformationOnXmlToHTML.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\10.XSLTTranformationOnXmlToHTML\obj\Debug\10.XSLTTranformationOnXmlToHTML.pdb

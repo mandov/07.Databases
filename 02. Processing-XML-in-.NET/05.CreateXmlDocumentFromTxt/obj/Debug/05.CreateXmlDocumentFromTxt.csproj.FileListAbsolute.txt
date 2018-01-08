@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\bin\Debug\05.CreateXmlDocument.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\bin\Debug\05.CreateXmlDocument.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\bin\Debug\05.CreateXmlDocument.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\obj\Debug\05.CreateXmlDocumentFromTxt.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\obj\Debug\05.CreateXmlDocument.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\05.CreateXmlDocument\obj\Debug\05.CreateXmlDocument.pdb

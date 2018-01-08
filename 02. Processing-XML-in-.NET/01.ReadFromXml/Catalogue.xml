@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="CatalogueStyleSheet.xslt"?>
+<catalog>
+  <album>
+    <name>Rygai chushki v boba</name>
+    <artist>Slavi Trifonov</artist>
+    <year>2000</year>
+    <producer>7/8 productions</producer>
+    <price>20.20</price>
+    <songs>
+      <song>
+        <title>Gradil Iliq Kiliq</title>
+        <duration>3:20</duration>
+      </song>
+      <song>
+        <title>Tango na BSP</title>
+        <duration>2:45</duration>
+      </song>
+      <song>
+        <title>Mama na tatko ne dava</title>
+        <duration>3:35</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>POPULI VOX</name>
+    <artist>Slavi Trifonov</artist>
+    <year>2002</year>
+    <producer>7/8 productions</producer>
+    <price>10</price>
+    <songs>
+      <song>
+        <title>Funk off</title>
+        <duration>3:36</duration>
+      </song>
+      <song>
+        <title>Bach VOX DEI</title>
+        <duration>6:48</duration>
+      </song>
+      <song>
+        <title>134 BPM VOX POPULI</title>
+        <duration>3:36</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Get Rich or Die Tryin</name>
+    <artist>50 CENT</artist>
+    <year>2014</year>
+    <producer>Dr.Dre</producer>
+    <price>22</price>
+    <songs>
+      <song>
+        <title>What Up Gangsta</title>
+        <duration>2:59</duration>
+      </song>
+     <song>
+        <title>Many Men</title>
+        <duration>4:16</duration>
+      </song>
+     <song>
+        <title>Back Down</title>
+        <duration>4:03</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<persons>
+  <person>
+    <name>Georgi </name>
+    <address> Hristo Botev 51    </address>
+    <phone>085462234</phone>
+  </person>
+  <person>
+    <name>
+Ivan   </name>
+    <address> Emilian Stanve 30  </address>
+    <phone>084545555</phone>
+  </person>
+  <person>
+    <name>
+Pesho  </name>
+    <address> Georgi Rakovski 15 </address>
+    <phone>089454564</phone>
+  </person>
+</persons>

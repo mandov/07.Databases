@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\bin\Debug\08.ExtractPricesFromCatalog.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\bin\Debug\08.ExtractPricesFromCatalog.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\bin\Debug\08.ExtractPricesFromCatalog.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\obj\Debug\09.ExtractPricesFromCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\obj\Debug\08.ExtractPricesFromCatalog.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\08.ExtractPricesFromCatalog\obj\Debug\08.ExtractPricesFromCatalog.pdb

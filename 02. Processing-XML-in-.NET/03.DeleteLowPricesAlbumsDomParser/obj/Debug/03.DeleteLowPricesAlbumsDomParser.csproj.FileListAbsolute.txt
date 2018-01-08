@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\bin\Debug\03.DeleteLowPricesAlbumsDomParser.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\bin\Debug\03.DeleteLowPricesAlbumsDomParser.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\bin\Debug\03.DeleteLowPricesAlbumsDomParser.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\obj\Debug\03.DeleteLowPricesAlbumsDomParser.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\obj\Debug\03.DeleteLowPricesAlbumsDomParser.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\03.DeleteLowPricesAlbumsDomParser\obj\Debug\03.DeleteLowPricesAlbumsDomParser.csprojResolveAssemblyReference.cache

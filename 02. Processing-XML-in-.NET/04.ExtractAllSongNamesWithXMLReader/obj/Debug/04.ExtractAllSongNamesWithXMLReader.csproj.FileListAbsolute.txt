@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\bin\Debug\04.ExtractAllSongNamesWithXMLReader.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\bin\Debug\04.ExtractAllSongNamesWithXMLReader.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\bin\Debug\04.ExtractAllSongNamesWithXMLReader.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\obj\Debug\04.ExtractAllSongNamesWithXMLReader.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\obj\Debug\04.ExtractAllSongNamesWithXMLReader.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\02.Processing-XML-in-.NET\02. Processing-XML-in-.NET\04.ExtractAllSongNamesWithXMLReader\obj\Debug\04.ExtractAllSongNamesWithXMLReader.pdb
