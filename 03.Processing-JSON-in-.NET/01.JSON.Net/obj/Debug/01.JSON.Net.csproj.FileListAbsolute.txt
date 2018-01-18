@@ -1,0 +1,8 @@
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\bin\Debug\01.JSON.Net.exe.config
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\bin\Debug\01.JSON.Net.exe
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\bin\Debug\01.JSON.Net.pdb
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\obj\Debug\01.JSON.Net.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\obj\Debug\01.JSON.Net.exe
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\obj\Debug\01.JSON.Net.pdb
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\bin\Debug\Newtonsoft.Json.dll
+c:\users\gabriel\documents\visual studio 2017\Projects\03.Processing-JSON-in-.NET\01.JSON.Net\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,661 @@
+{
+  "?xml": {
+    "@version": "1.0",
+    "@encoding": "UTF-8"
+  },
+  "feed": {
+    "@xmlns:yt": "http://www.youtube.com/xml/schemas/2015",
+    "@xmlns:media": "http://search.yahoo.com/mrss/",
+    "@xmlns": "http://www.w3.org/2005/Atom",
+    "link": [
+      {
+        "@rel": "self",
+        "@href": "http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"
+      },
+      {
+        "@rel": "alternate",
+        "@href": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+      }
+    ],
+    "id": "yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw",
+    "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+    "title": "Telerik Academy",
+    "author": {
+      "name": "Telerik Academy",
+      "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+    },
+    "published": "2011-06-24T15:53:13+00:00",
+    "entry": [
+      {
+        "id": "yt:video:LC9Z63PqK94",
+        "yt:videoId": "LC9Z63PqK94",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Сложност на алгоритми",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=LC9Z63PqK94"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T14:13:52+00:00",
+        "updated": "2018-01-13T20:56:13+00:00",
+        "media:group": {
+          "media:title": "Сложност на алгоритми",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/LC9Z63PqK94?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/LC9Z63PqK94/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Линейни структури от данно\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "76"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:lEhK8Rby4QI",
+        "yt:videoId": "lEhK8Rby4QI",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Дървета в Java",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=lEhK8Rby4QI"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T14:09:06+00:00",
+        "updated": "2018-01-15T10:34:47+00:00",
+        "media:group": {
+          "media:title": "Дървета в Java",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/lEhK8Rby4QI?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/lEhK8Rby4QI/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Дървета\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "24"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:h1laHTudHP0",
+        "yt:videoId": "h1laHTudHP0",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Графи и алгоритми върху графи",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=h1laHTudHP0"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T14:06:59+00:00",
+        "updated": "2018-01-14T14:26:09+00:00",
+        "media:group": {
+          "media:title": "Графи и алгоритми върху графи",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/h1laHTudHP0?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/h1laHTudHP0/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Графи и алгоритми върху графи\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "54"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:OnmwBc3Gp14",
+        "yt:videoId": "OnmwBc3Gp14",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Линейни структури от данни в Java",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=OnmwBc3Gp14"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T14:02:53+00:00",
+        "updated": "2018-01-13T18:55:18+00:00",
+        "media:group": {
+          "media:title": "Линейни структури от данни в Java",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/OnmwBc3Gp14?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i4.ytimg.com/vi/OnmwBc3Gp14/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Линейни структури от данно\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "22"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:NaNCGRom8Ds",
+        "yt:videoId": "NaNCGRom8Ds",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Сортиращи алгоритми",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=NaNCGRom8Ds"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T14:01:58+00:00",
+        "updated": "2018-01-14T05:47:56+00:00",
+        "media:group": {
+          "media:title": "Сортиращи алгоритми",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/NaNCGRom8Ds?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/NaNCGRom8Ds/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Сортиращи алгоритми\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "3",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "67"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:RTpIaFP43qQ",
+        "yt:videoId": "RTpIaFP43qQ",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Хеш таблици в Java (HashSet, HashMap)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=RTpIaFP43qQ"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:56:11+00:00",
+        "updated": "2018-01-13T18:55:23+00:00",
+        "media:group": {
+          "media:title": "Хеш таблици в Java (HashSet, HashMap)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/RTpIaFP43qQ?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/RTpIaFP43qQ/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Хеш таблици\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "24"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:AFW3d390pqU",
+        "yt:videoId": "AFW3d390pqU",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Рекурсия в Java",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=AFW3d390pqU"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:55:04+00:00",
+        "updated": "2018-01-13T17:26:56+00:00",
+        "media:group": {
+          "media:title": "Рекурсия в Java",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/AFW3d390pqU?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/AFW3d390pqU/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Рекурсия\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "19"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:o6fzsQl8QcU",
+        "yt:videoId": "o6fzsQl8QcU",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Двойчни пирамиди с Java (Binary Heaps)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=o6fzsQl8QcU"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:52:27+00:00",
+        "updated": "2018-01-13T15:24:13+00:00",
+        "media:group": {
+          "media:title": "Двойчни пирамиди с Java (Binary Heaps)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/o6fzsQl8QcU?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i4.ytimg.com/vi/o6fzsQl8QcU/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Линейни структури от данно\nКурс: Двойчни пирамиди (Binary Heaps)\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "25"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:4v_pA5oV_00",
+        "yt:videoId": "4v_pA5oV_00",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Решаване на задача: Jedi Meditation",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=4v_pA5oV_00"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:48:42+00:00",
+        "updated": "2018-01-13T15:00:16+00:00",
+        "media:group": {
+          "media:title": "Решаване на задача: Jedi Meditation",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/4v_pA5oV_00?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/4v_pA5oV_00/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Решаване на задача: Jedi Meditation\nЗадача: http://judge.telerikacademy.com/problem/03jedimeditation\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "59"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:4gS49btNC_g",
+        "yt:videoId": "4gS49btNC_g",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Примери за сложност на алгоритми",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=4gS49btNC_g"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:48:40+00:00",
+        "updated": "2018-01-13T15:19:08+00:00",
+        "media:group": {
+          "media:title": "Примери за сложност на алгоритми",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/4gS49btNC_g?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/4gS49btNC_g/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция: Линейни структури от данно\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "29"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:01W3PNxDro0",
+        "yt:videoId": "01W3PNxDro0",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Решаване на задача: Coki Skoki",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=01W3PNxDro0"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2018-01-13T13:48:40+00:00",
+        "updated": "2018-01-13T15:27:12+00:00",
+        "media:group": {
+          "media:title": "Решаване на задача: Coki Skoki",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/01W3PNxDro0?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/01W3PNxDro0/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция:  Решаване на задача: Coki Skoki\nЗадача: http://judge.telerikacademy.com/problem/05cokiskoki\nКурс: Структури от данни с Java\nЛектор: Дончо Минков\nДата: 11 януари 2018 г.\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "0",
+              "@average": "0.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "57"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:ux-ldZ0HTLE",
+        "yt:videoId": "ux-ldZ0HTLE",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Java: Класове",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=ux-ldZ0HTLE"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2017-12-13T15:58:23+00:00",
+        "updated": "2018-01-05T12:52:09+00:00",
+        "media:group": {
+          "media:title": "Java: Класове",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/ux-ldZ0HTLE?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/ux-ldZ0HTLE/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция:\nКурс:\nЛектор:\nДата:\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "3",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "319"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:PjGVb_ccJxs",
+        "yt:videoId": "PjGVb_ccJxs",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Java: Наследяване",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=PjGVb_ccJxs"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2017-12-13T15:42:03+00:00",
+        "updated": "2017-12-25T05:44:28+00:00",
+        "media:group": {
+          "media:title": "Java: Наследяване",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/PjGVb_ccJxs?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/PjGVb_ccJxs/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция:\nКурс:\nЛектор:\nДата:\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2",
+              "@average": "1.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "119"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:4tMPZXaiUYc",
+        "yt:videoId": "4tMPZXaiUYc",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Java: Enums",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=4tMPZXaiUYc"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2017-12-13T15:41:13+00:00",
+        "updated": "2017-12-13T18:07:43+00:00",
+        "media:group": {
+          "media:title": "Java: Enums",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/4tMPZXaiUYc?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/4tMPZXaiUYc/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция:\nКурс:\nЛектор:\nДата:\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "97"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:4NDvUyhXQvA",
+        "yt:videoId": "4NDvUyhXQvA",
+        "yt:channelId": "UCLC-vbm7OWvpbqzXaoAMGGw",
+        "title": "Java: Objects",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=4NDvUyhXQvA"
+        },
+        "author": {
+          "name": "Telerik Academy",
+          "uri": "https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"
+        },
+        "published": "2017-12-13T15:35:25+00:00",
+        "updated": "2018-01-05T10:11:13+00:00",
+        "media:group": {
+          "media:title": "Java: Objects",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/4NDvUyhXQvA?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/4NDvUyhXQvA/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Лекция:\nКурс:\nЛектор:\nДата:\n\nУебсайт: http://telerikacademy.com\nСледете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "4",
+              "@average": "4.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "257"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
