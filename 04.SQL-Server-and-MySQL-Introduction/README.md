@@ -17,5 +17,3 @@
 1.	Export the MySQL sample database "`world`" as SQL script.
 1.	Modify the script and execute it to restore the database world as "`worldNew`".
 1.	Connect through the MySQL console client and list the first 20 tons from the database "`worldNew`".
-
-#### As a result of your homework provide screenshots
