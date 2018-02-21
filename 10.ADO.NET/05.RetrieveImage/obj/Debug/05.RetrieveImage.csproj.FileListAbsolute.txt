@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\bin\Debug\05.RetrieveImage.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\bin\Debug\05.RetrieveImage.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\bin\Debug\05.RetrieveImage.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\obj\Debug\05.RetrieveImage.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\obj\Debug\05.RetrieveImage.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\obj\Debug\05.RetrieveImage.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\05.RetrieveImage\obj\Debug\05.RetrieveImage.pdb

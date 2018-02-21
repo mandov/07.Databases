@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\bin\Debug\07.WritingToExcelFile.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\bin\Debug\07.WritingToExcelFile.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\bin\Debug\07.WritingToExcelFile.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\obj\Debug\07.WritingToExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\obj\Debug\07.WritingToExcelFile.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\07.WritingToExcelFile\obj\Debug\07.WritingToExcelFile.pdb

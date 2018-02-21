@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\bin\Debug\01.RetrievesFromNorthwind.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\bin\Debug\01.RetrievesFromNorthwind.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\bin\Debug\01.RetrievesFromNorthwind.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\obj\Debug\01.RetrievesFromNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\obj\Debug\01.RetrievesFromNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\obj\Debug\01.RetrievesFromNorthwind.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\01.RetrievesFromNorthwind\obj\Debug\01.RetrievesFromNorthwind.pdb

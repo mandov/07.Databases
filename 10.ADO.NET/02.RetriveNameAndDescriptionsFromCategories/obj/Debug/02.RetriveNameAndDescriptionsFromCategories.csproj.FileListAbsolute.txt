@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\bin\Debug\02.RetriveNameAndDescriptionsFromCategories.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\bin\Debug\02.RetriveNameAndDescriptionsFromCategories.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\bin\Debug\02.RetriveNameAndDescriptionsFromCategories.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\obj\Debug\02.RetriveNameAndDescriptionsFromCategories.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\obj\Debug\02.RetriveNameAndDescriptionsFromCategories.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\02.RetriveNameAndDescriptionsFromCategories\obj\Debug\02.RetriveNameAndDescriptionsFromCategories.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\bin\Debug\03.RetriveProducts.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\bin\Debug\03.RetriveProducts.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\bin\Debug\03.RetriveProducts.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\obj\Debug\03.RetriveProducts.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\obj\Debug\03.RetriveProducts.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\obj\Debug\03.RetriveProducts.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\03.RetriveProducts\obj\Debug\03.RetriveProducts.pdb

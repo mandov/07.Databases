@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\bin\Debug\08.FindProductByString.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\bin\Debug\08.FindProductByString.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\bin\Debug\08.FindProductByString.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\obj\Debug\08.FindProductByString.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\obj\Debug\08.FindProductByString.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\obj\Debug\08.FindProductByString.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\08.FindProductByString\obj\Debug\08.FindProductByString.pdb

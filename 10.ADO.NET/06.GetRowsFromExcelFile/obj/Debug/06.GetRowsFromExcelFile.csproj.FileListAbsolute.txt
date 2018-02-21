@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\bin\Debug\06.GetRowsFromExcelFile.exe.config
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\bin\Debug\06.GetRowsFromExcelFile.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\bin\Debug\06.GetRowsFromExcelFile.pdb
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\obj\Debug\06.GetRowsFromExcelFile.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\obj\Debug\06.GetRowsFromExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\obj\Debug\06.GetRowsFromExcelFile.exe
+C:\Users\Gabriel\Desktop\Coding\Telerik\07.Databases\10.ADO.NET\10.ADO.NET\06.GetRowsFromExcelFile\obj\Debug\06.GetRowsFromExcelFile.pdb
